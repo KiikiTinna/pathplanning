@@ -7,9 +7,9 @@ from queue import PriorityQueue
 
 
 #SET UP THE WINDOW
-WIDTH=800
+WIDTH=500
 WIN=pygame.display.set_mode((WIDTH,WIDTH))
-pygame.display.set_caption("A* Path Finding Algoritham")
+pygame.display.set_caption("A* Path Finding Example")
 
 #coler code
 RED = (255, 0, 0)
